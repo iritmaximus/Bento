@@ -11,7 +11,7 @@ const CONFIG = {
 	// └─┘┴ ┴└─┘┴└─┘└─┘
 
 	// General
-	name: 'John',
+	name: 'Martti',
 	imageBackground: false,
 	openInNewTab: true,
 	twelveHourFormat: false,
@@ -32,8 +32,8 @@ const CONFIG = {
 	language: 'en', // More languages in https://openweathermap.org/current#multi
 
 	trackLocation: true, // If false or an error occurs, the app will use the lat/lon below
-	defaultLatitude: '37.775',
-	defaultLongitude: '-122.419',
+	defaultLatitude: '61.000',
+	defaultLongitude: '23.000',
 
 	// Autochange
 	autoChangeTheme: true,
@@ -59,33 +59,33 @@ const CONFIG = {
 		},
 		{
 			id: '2',
-			name: 'Mail',
-			icon: 'mail',
-			link: 'https://mail.protonmail.com/',
+			name: 'dwm',
+			icon: 'layout',
+			link: 'https://dwm.suckless.org/',
 		},
 		{
 			id: '3',
-			name: 'Todoist',
-			icon: 'trello',
-			link: 'https://todoist.com',
+			name: 'Youtube',
+			icon: 'youtube',
+			link: 'https://youtube.com',
 		},
 		{
 			id: '4',
-			name: 'Calendar',
-			icon: 'calendar',
-			link: 'https://calendar.google.com/calendar/r',
+			name: 'Bitwarden',
+			icon: 'lock',
+			link: 'https://vault.bitwarden.com/#/',
 		},
 		{
 			id: '5',
-			name: 'Reddit',
-			icon: 'glasses',
-			link: 'https://reddit.com',
+			name: 'Whatsapp',
+			icon: 'message-circle',
+			link: 'https://web.whatsapp.com/',
 		},
 		{
 			id: '6',
-			name: 'Odysee',
-			icon: 'youtube',
-			link: 'https://odysee.com/',
+			name: 'Monkeytype',
+			icon: 'keyboard',
+			link: 'https://monkeytype.com',
 		},
 	],
 
@@ -139,20 +139,20 @@ const CONFIG = {
 			id: '1',
 			links: [
 				{
-					name: 'Inspirational',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Lo-Fi Girl',
+					link: 'https://www.youtube.com/watch?v=5qap5aO4i9A',
 				},
 				{
-					name: 'Classic',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Nintendo Music',
+					link: '://www.youtube.com/watch?v=g9gHC2quF3A',
 				},
 				{
-					name: 'Oldies',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Ghibli Jazz',
+					link: 'https://www.youtube.com/watch?v=3jWRrafhO7M',
 				},
 				{
-					name: 'Rock',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Nothing yet',
+					link: '#',
 				},
 			],
 		},
